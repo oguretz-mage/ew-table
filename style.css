@@ -1,8 +1,17 @@
 body {
-  font-family: sans-serif;
+    font-family: sans-serif;
 }
 
 header {
-  background-color: #9FCF89;
-  
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+header a {
+  color: darkgreen;
+  background-color: white;
+  padding: 5px;
+  margin: 20px;
+  border: 1px solid #1aa376;
+  border-radius: 15px;
 }
